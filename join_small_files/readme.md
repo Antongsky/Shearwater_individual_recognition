@@ -1,4 +1,4 @@
-This py file aims to create artificial long recording pieces from single individual manx shearwater call recordings.
+This py file (join_wav.py) aims to create artificial long recording pieces from single individual manx shearwater call recordings.
 Input: a directory containing different WAV files of single shearwater’s call. One individual may have several recording files. Naming of each file : id_xxxxx (e.g., 01_20250203 means ID is 01)
 Function:
 randomly pick [a, b] files
