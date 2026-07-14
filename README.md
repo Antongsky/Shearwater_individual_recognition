@@ -1,7 +1,7 @@
 ## 1 About this depository
 This repository is for identifying Manx shearwater individual by their calls, and counting individual numbers in audio recordings, using machine learning. 
 
-This repository is created by Zhanyi Lin (Imperial College London) in July 2026, for the Imperial College London Master project "Predicting Manx shearwater individual number in acoustic recordings using machine learning".
+This repository is created by Zhanyi Lin (Imperial College London) in July 2026, for the Imperial College London Master project "Predicting Manx shearwater individual number in acoustic recordings using machine learning". The project is funded by Imperial College London, and field research grant is offered by Lundy Field Society.
 
 ## 2 Content
 
@@ -33,7 +33,7 @@ Readmes are included in each folder for more detailed descriptions.
 
 -- b Indiviudal number prediction: ./clustering_and_counting.
 
-## Data
+## 4 Data
 
 Data for this research can be found here: https://doi.org/10.5281/zenodo.21297859
 which includes model checkpoint pt files, training set and test set clip embeddings, test set log file, etc.
